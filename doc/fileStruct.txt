@@ -1,0 +1,6 @@
+-build: compiled code from c++
+-dat: all dynamic data
+-doc: documentation
+-res: all things having to do with the ui and graphics
+-src: all backend code
+-app.js: the main module that runs everything
